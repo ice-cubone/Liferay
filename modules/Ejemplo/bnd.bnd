@@ -1,0 +1,4 @@
+Bundle-Name: Ejemplo
+Bundle-SymbolicName: com.ejemploportlet
+Bundle-Version: 1.0.0
+Export-Package: com.ejemploportlet.constants
